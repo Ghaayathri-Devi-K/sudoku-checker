@@ -170,3 +170,9 @@ r8 = '928671354'
 r9 = '254938671'
 
 isSuduko(r1,r2,r3,r4,r5,r6,r7,r8,r9)
+
+
+'''
+Author:
+    @ Ghaayathri Devi K
+'''
